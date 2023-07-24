@@ -23,7 +23,7 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 # Installation
 - via WGET
 ```
-bash -c "$(wget -qO- https://raw.githubusercontent.com/wingshope/autoscript/master/xray)"
+wget -q https://raw.githubusercontent.com/wingshope/autoscript/main/xray && chmod +x xray && ./xray
 ```
 - via CURL
 ```
