@@ -1,4 +1,4 @@
-# WINGS RAY
+# WINGS RAYy
 
 # Required
 - DOMAIN (HARUS PUNYA)
