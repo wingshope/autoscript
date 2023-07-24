@@ -2,8 +2,8 @@
 
 # Required
 - DOMAIN (HARUS PUNYA)
-- DEBIAN 9/10
-- Ubuntu 18/20 LTS
+- DEBIAN 9/10/11
+- Ubuntu 18/20/21/22 (rekomendasi U 20) 
 - CPU MINIMAL 1 CORE
 - RAM 1GB
 
