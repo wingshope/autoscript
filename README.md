@@ -3,7 +3,7 @@
 # Required
 - DOMAIN (HARUS PUNYA)
 - DEBIAN 9/10/11
-- Ubuntu 18/20/21/22 (rekomendasi U 20) 
+- Ubuntu 18/20/21/22 (rekomendasi Ubuntu 20.04) 
 - CPU MINIMAL 1 CORE
 - RAM 1GB
 
