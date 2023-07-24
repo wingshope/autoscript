@@ -14,8 +14,12 @@
 </p>
 </div>
 # UPDATE DULU SEBELUM INSTALL..!! 
+
 # UPDATE UNTUK DEBIAN
 apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
+# UPDATE UNTUK UBUNTU
+apt update && apt upgrade -y && update-grub && sleep 2 && reboot
+
 # Installation
 - via WGET
 ```
