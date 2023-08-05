@@ -8,6 +8,7 @@
 - Ubuntu 18/20/21/22 (rekomendasi Ubuntu 20.04) 
 - CPU MINIMAL 1 CORE
 - RAM 1GB
+- GANTI KE XRAY MOD UNTUK SUPOT MULTIPATH NYA➡️CERT DOMAIN➡️ CTRL C REBOOT ✅
 
 </p> 
 <h2 align="center"> Supported Linux Distribution</h2>
