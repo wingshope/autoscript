@@ -2,6 +2,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=WINGS+XRAY+MULTIPATH"/>
 </p>
 
+### TANPA REGIST IP LANGSUNG GAS INSTALL
+
 # Required
 - DOMAIN (HARUS PUNYA)
 - DEBIAN 9/10/11
