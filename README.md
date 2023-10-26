@@ -40,3 +40,6 @@ wget -q https://raw.githubusercontent.com/wingshope/autoscript/main/xray && chmo
 - Always Use HTTPS : OFF
 - UNDER ATTACK MODE : OFF
 ```
+
+![FB_IMG_1698279471105](https://github.com/wingshope/autoscript/assets/138878860/97534ba6-b12b-448a-90e1-b19ba0426765)
+
